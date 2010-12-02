@@ -1,0 +1,2 @@
+# Optional adapter for the historical MySQL source baseline.
+PyMySQL==0.7.11
