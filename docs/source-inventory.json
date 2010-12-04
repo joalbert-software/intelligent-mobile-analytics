@@ -1,0 +1,1001 @@
+{
+  "by_language": {
+    "Bash": 159,
+    "Java": 6306,
+    "Python": 3067,
+    "SQL": 479
+  },
+  "definition": "nonblank, noncomment implementation source lines; Python docstrings excluded",
+  "excluded": [
+    "tests",
+    "documentation",
+    "configuration",
+    "tools",
+    "generated code",
+    "dependencies"
+  ],
+  "files": [
+    {
+      "code_lines": 1,
+      "language": "Python",
+      "path": "batch/ima_batch/__init__.py"
+    },
+    {
+      "code_lines": 4,
+      "language": "Python",
+      "path": "batch/ima_batch/__main__.py"
+    },
+    {
+      "code_lines": 135,
+      "language": "Python",
+      "path": "batch/ima_batch/aggregates.py"
+    },
+    {
+      "code_lines": 91,
+      "language": "Python",
+      "path": "batch/ima_batch/alerts.py"
+    },
+    {
+      "code_lines": 93,
+      "language": "Python",
+      "path": "batch/ima_batch/anomalies.py"
+    },
+    {
+      "code_lines": 84,
+      "language": "Python",
+      "path": "batch/ima_batch/attribution.py"
+    },
+    {
+      "code_lines": 100,
+      "language": "Python",
+      "path": "batch/ima_batch/catalog.py"
+    },
+    {
+      "code_lines": 89,
+      "language": "Python",
+      "path": "batch/ima_batch/checkpoint.py"
+    },
+    {
+      "code_lines": 85,
+      "language": "Python",
+      "path": "batch/ima_batch/cli.py"
+    },
+    {
+      "code_lines": 32,
+      "language": "Python",
+      "path": "batch/ima_batch/compat.py"
+    },
+    {
+      "code_lines": 35,
+      "language": "Python",
+      "path": "batch/ima_batch/dbcli.py"
+    },
+    {
+      "code_lines": 23,
+      "language": "Python",
+      "path": "batch/ima_batch/errors.py"
+    },
+    {
+      "code_lines": 92,
+      "language": "Python",
+      "path": "batch/ima_batch/experiments.py"
+    },
+    {
+      "code_lines": 104,
+      "language": "Python",
+      "path": "batch/ima_batch/forecast.py"
+    },
+    {
+      "code_lines": 70,
+      "language": "Python",
+      "path": "batch/ima_batch/funnels.py"
+    },
+    {
+      "code_lines": 112,
+      "language": "Python",
+      "path": "batch/ima_batch/ingestcli.py"
+    },
+    {
+      "code_lines": 256,
+      "language": "Python",
+      "path": "batch/ima_batch/mysql.py"
+    },
+    {
+      "code_lines": 111,
+      "language": "Python",
+      "path": "batch/ima_batch/ordering.py"
+    },
+    {
+      "code_lines": 100,
+      "language": "Python",
+      "path": "batch/ima_batch/pipeline.py"
+    },
+    {
+      "code_lines": 52,
+      "language": "Python",
+      "path": "batch/ima_batch/privacy.py"
+    },
+    {
+      "code_lines": 87,
+      "language": "Python",
+      "path": "batch/ima_batch/quality.py"
+    },
+    {
+      "code_lines": 63,
+      "language": "Python",
+      "path": "batch/ima_batch/reconcile.py"
+    },
+    {
+      "code_lines": 85,
+      "language": "Python",
+      "path": "batch/ima_batch/retention.py"
+    },
+    {
+      "code_lines": 82,
+      "language": "Python",
+      "path": "batch/ima_batch/rfm.py"
+    },
+    {
+      "code_lines": 101,
+      "language": "Python",
+      "path": "batch/ima_batch/segments.py"
+    },
+    {
+      "code_lines": 97,
+      "language": "Python",
+      "path": "batch/ima_batch/serialization.py"
+    },
+    {
+      "code_lines": 105,
+      "language": "Python",
+      "path": "batch/ima_batch/sessions.py"
+    },
+    {
+      "code_lines": 75,
+      "language": "Python",
+      "path": "batch/ima_batch/spool.py"
+    },
+    {
+      "code_lines": 149,
+      "language": "Python",
+      "path": "batch/ima_batch/statistics.py"
+    },
+    {
+      "code_lines": 128,
+      "language": "Python",
+      "path": "batch/ima_batch/streaming.py"
+    },
+    {
+      "code_lines": 60,
+      "language": "Python",
+      "path": "batch/ima_batch/timeutil.py"
+    },
+    {
+      "code_lines": 134,
+      "language": "Python",
+      "path": "batch/ima_batch/transport.py"
+    },
+    {
+      "code_lines": 89,
+      "language": "Python",
+      "path": "batch/ima_batch/validation.py"
+    },
+    {
+      "code_lines": 143,
+      "language": "Python",
+      "path": "batch/ima_batch/warehouse.py"
+    },
+    {
+      "code_lines": 8,
+      "language": "Bash",
+      "path": "ops/build.sh"
+    },
+    {
+      "code_lines": 24,
+      "language": "Bash",
+      "path": "ops/deploy.sh"
+    },
+    {
+      "code_lines": 22,
+      "language": "Bash",
+      "path": "ops/hadoop-daily.sh"
+    },
+    {
+      "code_lines": 22,
+      "language": "Bash",
+      "path": "ops/hadoop-deduplicate.sh"
+    },
+    {
+      "code_lines": 24,
+      "language": "Bash",
+      "path": "ops/hadoop-sessions.sh"
+    },
+    {
+      "code_lines": 12,
+      "language": "Bash",
+      "path": "ops/healthcheck.sh"
+    },
+    {
+      "code_lines": 14,
+      "language": "Bash",
+      "path": "ops/hive-daily.sh"
+    },
+    {
+      "code_lines": 25,
+      "language": "Bash",
+      "path": "ops/mysql-backup.sh"
+    },
+    {
+      "code_lines": 8,
+      "language": "Bash",
+      "path": "ops/report.sh"
+    },
+    {
+      "code_lines": 63,
+      "language": "SQL",
+      "path": "sql/hive/001_tables.sql"
+    },
+    {
+      "code_lines": 27,
+      "language": "SQL",
+      "path": "sql/hive/002_daily_aggregation.sql"
+    },
+    {
+      "code_lines": 9,
+      "language": "SQL",
+      "path": "sql/hive/003_acquisition.sql"
+    },
+    {
+      "code_lines": 52,
+      "language": "SQL",
+      "path": "sql/hive/004_sessionization.sql"
+    },
+    {
+      "code_lines": 36,
+      "language": "SQL",
+      "path": "sql/hive/005_retention.sql"
+    },
+    {
+      "code_lines": 64,
+      "language": "SQL",
+      "path": "sql/mysql/001_metadata.sql"
+    },
+    {
+      "code_lines": 36,
+      "language": "SQL",
+      "path": "sql/mysql/002_batch_jobs.sql"
+    },
+    {
+      "code_lines": 74,
+      "language": "SQL",
+      "path": "sql/mysql/003_reporting.sql"
+    },
+    {
+      "code_lines": 59,
+      "language": "SQL",
+      "path": "sql/mysql/004_governance.sql"
+    },
+    {
+      "code_lines": 18,
+      "language": "SQL",
+      "path": "sql/mysql/queries/application_overview.sql"
+    },
+    {
+      "code_lines": 13,
+      "language": "SQL",
+      "path": "sql/mysql/queries/job_health.sql"
+    },
+    {
+      "code_lines": 13,
+      "language": "SQL",
+      "path": "sql/mysql/queries/retention_curve.sql"
+    },
+    {
+      "code_lines": 15,
+      "language": "SQL",
+      "path": "sql/mysql/queries/revenue_overview.sql"
+    },
+    {
+      "code_lines": 74,
+      "language": "Java",
+      "path": "src/main/java/com/ima/admin/ProvisionApplication.java"
+    },
+    {
+      "code_lines": 42,
+      "language": "Java",
+      "path": "src/main/java/com/ima/admin/RunBatchWorker.java"
+    },
+    {
+      "code_lines": 23,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/AnomalyDetector.java"
+    },
+    {
+      "code_lines": 25,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/AnomalyResult.java"
+    },
+    {
+      "code_lines": 38,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/BinomialInterval.java"
+    },
+    {
+      "code_lines": 51,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/BreakdownCalculator.java"
+    },
+    {
+      "code_lines": 23,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/BreakdownRow.java"
+    },
+    {
+      "code_lines": 33,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/CrashCalculator.java"
+    },
+    {
+      "code_lines": 37,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/CrashSummary.java"
+    },
+    {
+      "code_lines": 74,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/DescriptiveStatistics.java"
+    },
+    {
+      "code_lines": 31,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/Dimension.java"
+    },
+    {
+      "code_lines": 39,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/EngagementCalculator.java"
+    },
+    {
+      "code_lines": 15,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/EngagementRow.java"
+    },
+    {
+      "code_lines": 56,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/EventOrdering.java"
+    },
+    {
+      "code_lines": 104,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/EventPredicate.java"
+    },
+    {
+      "code_lines": 74,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/ExperimentCalculator.java"
+    },
+    {
+      "code_lines": 31,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/ExperimentResult.java"
+    },
+    {
+      "code_lines": 37,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/FunnelCalculator.java"
+    },
+    {
+      "code_lines": 23,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/FunnelDefinition.java"
+    },
+    {
+      "code_lines": 33,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/FunnelResult.java"
+    },
+    {
+      "code_lines": 27,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/MetricPoint.java"
+    },
+    {
+      "code_lines": 25,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/PathCalculator.java"
+    },
+    {
+      "code_lines": 33,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/PathEdge.java"
+    },
+    {
+      "code_lines": 14,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/PredicateOperator.java"
+    },
+    {
+      "code_lines": 67,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/RetentionCalculator.java"
+    },
+    {
+      "code_lines": 42,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/RetentionRow.java"
+    },
+    {
+      "code_lines": 60,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/RevenueCalculator.java"
+    },
+    {
+      "code_lines": 36,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/RevenueSummary.java"
+    },
+    {
+      "code_lines": 32,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/SegmentCalculator.java"
+    },
+    {
+      "code_lines": 47,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/SegmentDefinition.java"
+    },
+    {
+      "code_lines": 26,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/SegmentMember.java"
+    },
+    {
+      "code_lines": 55,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/SessionSummary.java"
+    },
+    {
+      "code_lines": 38,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/Sessionizer.java"
+    },
+    {
+      "code_lines": 48,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/TimeSeriesCalculator.java"
+    },
+    {
+      "code_lines": 24,
+      "language": "Java",
+      "path": "src/main/java/com/ima/analytics/UtcBuckets.java"
+    },
+    {
+      "code_lines": 33,
+      "language": "Java",
+      "path": "src/main/java/com/ima/cache/CacheKey.java"
+    },
+    {
+      "code_lines": 10,
+      "language": "Java",
+      "path": "src/main/java/com/ima/cache/NoOpReportCache.java"
+    },
+    {
+      "code_lines": 36,
+      "language": "Java",
+      "path": "src/main/java/com/ima/cache/RedisReportCache.java"
+    },
+    {
+      "code_lines": 5,
+      "language": "Java",
+      "path": "src/main/java/com/ima/cache/ReportCache.java"
+    },
+    {
+      "code_lines": 68,
+      "language": "Java",
+      "path": "src/main/java/com/ima/catalog/EventSchema.java"
+    },
+    {
+      "code_lines": 87,
+      "language": "Java",
+      "path": "src/main/java/com/ima/catalog/PropertyRule.java"
+    },
+    {
+      "code_lines": 9,
+      "language": "Java",
+      "path": "src/main/java/com/ima/catalog/PropertyType.java"
+    },
+    {
+      "code_lines": 44,
+      "language": "Java",
+      "path": "src/main/java/com/ima/catalog/SchemaCompatibility.java"
+    },
+    {
+      "code_lines": 155,
+      "language": "Java",
+      "path": "src/main/java/com/ima/client/AnalyticsClient.java"
+    },
+    {
+      "code_lines": 39,
+      "language": "Java",
+      "path": "src/main/java/com/ima/client/ClientEvent.java"
+    },
+    {
+      "code_lines": 22,
+      "language": "Java",
+      "path": "src/main/java/com/ima/client/ClientException.java"
+    },
+    {
+      "code_lines": 63,
+      "language": "Java",
+      "path": "src/main/java/com/ima/client/ClientOptions.java"
+    },
+    {
+      "code_lines": 26,
+      "language": "Java",
+      "path": "src/main/java/com/ima/client/DeliveryOutcome.java"
+    },
+    {
+      "code_lines": 60,
+      "language": "Java",
+      "path": "src/main/java/com/ima/client/EventBuffer.java"
+    },
+    {
+      "code_lines": 38,
+      "language": "Java",
+      "path": "src/main/java/com/ima/client/RetryPolicy.java"
+    },
+    {
+      "code_lines": 73,
+      "language": "Java",
+      "path": "src/main/java/com/ima/config/ApplicationConfiguration.java"
+    },
+    {
+      "code_lines": 36,
+      "language": "Java",
+      "path": "src/main/java/com/ima/config/DemoConfiguration.java"
+    },
+    {
+      "code_lines": 92,
+      "language": "Java",
+      "path": "src/main/java/com/ima/config/PersistentConfiguration.java"
+    },
+    {
+      "code_lines": 31,
+      "language": "Java",
+      "path": "src/main/java/com/ima/config/Settings.java"
+    },
+    {
+      "code_lines": 34,
+      "language": "Java",
+      "path": "src/main/java/com/ima/config/WebConfiguration.java"
+    },
+    {
+      "code_lines": 23,
+      "language": "Java",
+      "path": "src/main/java/com/ima/config/WebInitializer.java"
+    },
+    {
+      "code_lines": 58,
+      "language": "Java",
+      "path": "src/main/java/com/ima/domain/Checks.java"
+    },
+    {
+      "code_lines": 86,
+      "language": "Java",
+      "path": "src/main/java/com/ima/domain/Event.java"
+    },
+    {
+      "code_lines": 31,
+      "language": "Java",
+      "path": "src/main/java/com/ima/domain/EventKey.java"
+    },
+    {
+      "code_lines": 72,
+      "language": "Java",
+      "path": "src/main/java/com/ima/domain/Money.java"
+    },
+    {
+      "code_lines": 35,
+      "language": "Java",
+      "path": "src/main/java/com/ima/domain/Page.java"
+    },
+    {
+      "code_lines": 16,
+      "language": "Java",
+      "path": "src/main/java/com/ima/domain/Platform.java"
+    },
+    {
+      "code_lines": 48,
+      "language": "Java",
+      "path": "src/main/java/com/ima/domain/Session.java"
+    },
+    {
+      "code_lines": 47,
+      "language": "Java",
+      "path": "src/main/java/com/ima/domain/TimeRange.java"
+    },
+    {
+      "code_lines": 36,
+      "language": "Java",
+      "path": "src/main/java/com/ima/domain/UserKey.java"
+    },
+    {
+      "code_lines": 49,
+      "language": "Java",
+      "path": "src/main/java/com/ima/export/CsvWriter.java"
+    },
+    {
+      "code_lines": 37,
+      "language": "Java",
+      "path": "src/main/java/com/ima/export/EventExporter.java"
+    },
+    {
+      "code_lines": 50,
+      "language": "Java",
+      "path": "src/main/java/com/ima/jobs/JobArtifactWriter.java"
+    },
+    {
+      "code_lines": 100,
+      "language": "Java",
+      "path": "src/main/java/com/ima/jobs/LocalBatchWorker.java"
+    },
+    {
+      "code_lines": 23,
+      "language": "Java",
+      "path": "src/main/java/com/ima/metrics/Counter.java"
+    },
+    {
+      "code_lines": 64,
+      "language": "Java",
+      "path": "src/main/java/com/ima/metrics/Histogram.java"
+    },
+    {
+      "code_lines": 43,
+      "language": "Java",
+      "path": "src/main/java/com/ima/metrics/RequestMetrics.java"
+    },
+    {
+      "code_lines": 81,
+      "language": "Java",
+      "path": "src/main/java/com/ima/persistence/ApplicationEntity.java"
+    },
+    {
+      "code_lines": 72,
+      "language": "Java",
+      "path": "src/main/java/com/ima/persistence/ApplicationRepository.java"
+    },
+    {
+      "code_lines": 74,
+      "language": "Java",
+      "path": "src/main/java/com/ima/persistence/AuditEntity.java"
+    },
+    {
+      "code_lines": 40,
+      "language": "Java",
+      "path": "src/main/java/com/ima/persistence/AuditRepository.java"
+    },
+    {
+      "code_lines": 66,
+      "language": "Java",
+      "path": "src/main/java/com/ima/persistence/CredentialEntity.java"
+    },
+    {
+      "code_lines": 73,
+      "language": "Java",
+      "path": "src/main/java/com/ima/persistence/HibernateCredentialStore.java"
+    },
+    {
+      "code_lines": 40,
+      "language": "Java",
+      "path": "src/main/java/com/ima/persistence/HibernateTransactions.java"
+    },
+    {
+      "code_lines": 113,
+      "language": "Java",
+      "path": "src/main/java/com/ima/persistence/JobEntity.java"
+    },
+    {
+      "code_lines": 166,
+      "language": "Java",
+      "path": "src/main/java/com/ima/persistence/JobRepository.java"
+    },
+    {
+      "code_lines": 83,
+      "language": "Java",
+      "path": "src/main/java/com/ima/persistence/ReportEntity.java"
+    },
+    {
+      "code_lines": 66,
+      "language": "Java",
+      "path": "src/main/java/com/ima/persistence/ReportRepository.java"
+    },
+    {
+      "code_lines": 6,
+      "language": "Java",
+      "path": "src/main/java/com/ima/security/AccessDeniedException.java"
+    },
+    {
+      "code_lines": 50,
+      "language": "Java",
+      "path": "src/main/java/com/ima/security/ApiCredential.java"
+    },
+    {
+      "code_lines": 40,
+      "language": "Java",
+      "path": "src/main/java/com/ima/security/ApiKeyHasher.java"
+    },
+    {
+      "code_lines": 6,
+      "language": "Java",
+      "path": "src/main/java/com/ima/security/AuthenticationException.java"
+    },
+    {
+      "code_lines": 29,
+      "language": "Java",
+      "path": "src/main/java/com/ima/security/Authenticator.java"
+    },
+    {
+      "code_lines": 30,
+      "language": "Java",
+      "path": "src/main/java/com/ima/security/Principal.java"
+    },
+    {
+      "code_lines": 20,
+      "language": "Java",
+      "path": "src/main/java/com/ima/security/RateDecision.java"
+    },
+    {
+      "code_lines": 4,
+      "language": "Java",
+      "path": "src/main/java/com/ima/security/RateLimiter.java"
+    },
+    {
+      "code_lines": 6,
+      "language": "Java",
+      "path": "src/main/java/com/ima/security/Scope.java"
+    },
+    {
+      "code_lines": 62,
+      "language": "Java",
+      "path": "src/main/java/com/ima/security/TokenBucketLimiter.java"
+    },
+    {
+      "code_lines": 89,
+      "language": "Java",
+      "path": "src/main/java/com/ima/service/AnalyticsService.java"
+    },
+    {
+      "code_lines": 44,
+      "language": "Java",
+      "path": "src/main/java/com/ima/service/ApplicationService.java"
+    },
+    {
+      "code_lines": 49,
+      "language": "Java",
+      "path": "src/main/java/com/ima/service/CachedReportService.java"
+    },
+    {
+      "code_lines": 59,
+      "language": "Java",
+      "path": "src/main/java/com/ima/service/CredentialService.java"
+    },
+    {
+      "code_lines": 62,
+      "language": "Java",
+      "path": "src/main/java/com/ima/service/EventInput.java"
+    },
+    {
+      "code_lines": 28,
+      "language": "Java",
+      "path": "src/main/java/com/ima/service/IngestionItem.java"
+    },
+    {
+      "code_lines": 35,
+      "language": "Java",
+      "path": "src/main/java/com/ima/service/IngestionPolicy.java"
+    },
+    {
+      "code_lines": 33,
+      "language": "Java",
+      "path": "src/main/java/com/ima/service/IngestionResult.java"
+    },
+    {
+      "code_lines": 52,
+      "language": "Java",
+      "path": "src/main/java/com/ima/service/IngestionService.java"
+    },
+    {
+      "code_lines": 65,
+      "language": "Java",
+      "path": "src/main/java/com/ima/service/JobService.java"
+    },
+    {
+      "code_lines": 21,
+      "language": "Java",
+      "path": "src/main/java/com/ima/service/PrivacyService.java"
+    },
+    {
+      "code_lines": 6,
+      "language": "Java",
+      "path": "src/main/java/com/ima/service/QueryTooLargeException.java"
+    },
+    {
+      "code_lines": 11,
+      "language": "Java",
+      "path": "src/main/java/com/ima/service/RateLimitException.java"
+    },
+    {
+      "code_lines": 124,
+      "language": "Java",
+      "path": "src/main/java/com/ima/service/ReportDefinition.java"
+    },
+    {
+      "code_lines": 11,
+      "language": "Java",
+      "path": "src/main/java/com/ima/service/ReportType.java"
+    },
+    {
+      "code_lines": 6,
+      "language": "Java",
+      "path": "src/main/java/com/ima/service/ResourceNotFoundException.java"
+    },
+    {
+      "code_lines": 6,
+      "language": "Java",
+      "path": "src/main/java/com/ima/service/RevisionConflictException.java"
+    },
+    {
+      "code_lines": 84,
+      "language": "Java",
+      "path": "src/main/java/com/ima/service/SavedReportService.java"
+    },
+    {
+      "code_lines": 7,
+      "language": "Java",
+      "path": "src/main/java/com/ima/store/CredentialStore.java"
+    },
+    {
+      "code_lines": 47,
+      "language": "Java",
+      "path": "src/main/java/com/ima/store/EventQuery.java"
+    },
+    {
+      "code_lines": 11,
+      "language": "Java",
+      "path": "src/main/java/com/ima/store/EventStore.java"
+    },
+    {
+      "code_lines": 35,
+      "language": "Java",
+      "path": "src/main/java/com/ima/store/InMemoryCredentialStore.java"
+    },
+    {
+      "code_lines": 81,
+      "language": "Java",
+      "path": "src/main/java/com/ima/store/InMemoryEventStore.java"
+    },
+    {
+      "code_lines": 39,
+      "language": "Java",
+      "path": "src/main/java/com/ima/store/MongoEventCodec.java"
+    },
+    {
+      "code_lines": 120,
+      "language": "Java",
+      "path": "src/main/java/com/ima/store/MongoEventStore.java"
+    },
+    {
+      "code_lines": 6,
+      "language": "Java",
+      "path": "src/main/java/com/ima/store/SaveResult.java"
+    },
+    {
+      "code_lines": 9,
+      "language": "Java",
+      "path": "src/main/java/com/ima/store/StoreUnavailableException.java"
+    },
+    {
+      "code_lines": 105,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/AnalyticsController.java"
+    },
+    {
+      "code_lines": 20,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/ApiError.java"
+    },
+    {
+      "code_lines": 74,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/ApiExceptionHandler.java"
+    },
+    {
+      "code_lines": 34,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/ApplicationController.java"
+    },
+    {
+      "code_lines": 31,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/ApplicationInput.java"
+    },
+    {
+      "code_lines": 18,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/AuthenticationInterceptor.java"
+    },
+    {
+      "code_lines": 87,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/BodyLimitFilter.java"
+    },
+    {
+      "code_lines": 33,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/CredentialController.java"
+    },
+    {
+      "code_lines": 34,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/CredentialInput.java"
+    },
+    {
+      "code_lines": 27,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/EventController.java"
+    },
+    {
+      "code_lines": 45,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/ExportController.java"
+    },
+    {
+      "code_lines": 41,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/FunnelInput.java"
+    },
+    {
+      "code_lines": 25,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/HealthController.java"
+    },
+    {
+      "code_lines": 52,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/JobController.java"
+    },
+    {
+      "code_lines": 29,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/JobInput.java"
+    },
+    {
+      "code_lines": 32,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/PrivacyController.java"
+    },
+    {
+      "code_lines": 21,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/RequestContext.java"
+    },
+    {
+      "code_lines": 31,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/RequestLoggingFilter.java"
+    },
+    {
+      "code_lines": 59,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/SavedReportController.java"
+    },
+    {
+      "code_lines": 25,
+      "language": "Java",
+      "path": "src/main/java/com/ima/web/SavedReportInput.java"
+    }
+  ],
+  "target": 10000,
+  "total_code_lines": 10011
+}
