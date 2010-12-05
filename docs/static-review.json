@@ -1,0 +1,11 @@
+{
+  "kind": "static-only",
+  "python_files_parsed": 37,
+  "java_files_inventoried": 142,
+  "internal_java_imports": "resolved",
+  "maven_xml": "well formed",
+  "application_executed": false,
+  "build_executed": false,
+  "tests_executed": false,
+  "limitations": "No Java compilation, external dependency validation, or runtime verification."
+}
