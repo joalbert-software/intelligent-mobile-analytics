@@ -1,3 +1,6 @@
+> **Synthetic commit dates:** all branch timestamps were randomly reassigned.
+> See [REWRITTEN_DATES.md](REWRITTEN_DATES.md); these dates are not original work records.
+
 # Intelligent Mobile Analytics
 
 A mobile-event analytics reference project using Java/Spring MVC, Python batch
