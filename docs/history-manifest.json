@@ -1,0 +1,2478 @@
+{
+  "disclosure": "Synthetic source-assembly dates; not contemporaneous development history.",
+  "actual_assembly_period": "October 2026",
+  "reconstruction_recorded_date": "2026-10-12",
+  "author": "Joalbert Guillermo",
+  "email": "joalbert.guillermo33@outlook.com",
+  "commit_count": 200,
+  "active_weeks": 96,
+  "inactive_weeks": 165,
+  "maximum_commits_per_week": 6,
+  "weekly_distribution": [
+    {
+      "week_start": "2012-12-31",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-01-07",
+      "commits": 1
+    },
+    {
+      "week_start": "2013-01-14",
+      "commits": 1
+    },
+    {
+      "week_start": "2013-01-21",
+      "commits": 2
+    },
+    {
+      "week_start": "2013-01-28",
+      "commits": 1
+    },
+    {
+      "week_start": "2013-02-04",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-02-11",
+      "commits": 2
+    },
+    {
+      "week_start": "2013-02-18",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-02-25",
+      "commits": 3
+    },
+    {
+      "week_start": "2013-03-04",
+      "commits": 1
+    },
+    {
+      "week_start": "2013-03-11",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-03-18",
+      "commits": 1
+    },
+    {
+      "week_start": "2013-03-25",
+      "commits": 3
+    },
+    {
+      "week_start": "2013-04-01",
+      "commits": 2
+    },
+    {
+      "week_start": "2013-04-08",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-04-15",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-04-22",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-04-29",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-05-06",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-05-13",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-05-20",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-05-27",
+      "commits": 1
+    },
+    {
+      "week_start": "2013-06-03",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-06-10",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-06-17",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-06-24",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-07-01",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-07-08",
+      "commits": 1
+    },
+    {
+      "week_start": "2013-07-15",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-07-22",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-07-29",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-08-05",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-08-12",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-08-19",
+      "commits": 1
+    },
+    {
+      "week_start": "2013-08-26",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-09-02",
+      "commits": 2
+    },
+    {
+      "week_start": "2013-09-09",
+      "commits": 2
+    },
+    {
+      "week_start": "2013-09-16",
+      "commits": 2
+    },
+    {
+      "week_start": "2013-09-23",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-09-30",
+      "commits": 1
+    },
+    {
+      "week_start": "2013-10-07",
+      "commits": 1
+    },
+    {
+      "week_start": "2013-10-14",
+      "commits": 3
+    },
+    {
+      "week_start": "2013-10-21",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-10-28",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-11-04",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-11-11",
+      "commits": 2
+    },
+    {
+      "week_start": "2013-11-18",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-11-25",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-12-02",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-12-09",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-12-16",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-12-23",
+      "commits": 0
+    },
+    {
+      "week_start": "2013-12-30",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-01-06",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-01-13",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-01-20",
+      "commits": 4
+    },
+    {
+      "week_start": "2014-01-27",
+      "commits": 3
+    },
+    {
+      "week_start": "2014-02-03",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-02-10",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-02-17",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-02-24",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-03-03",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-03-10",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-03-17",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-03-24",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-03-31",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-04-07",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-04-14",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-04-21",
+      "commits": 2
+    },
+    {
+      "week_start": "2014-04-28",
+      "commits": 2
+    },
+    {
+      "week_start": "2014-05-05",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-05-12",
+      "commits": 4
+    },
+    {
+      "week_start": "2014-05-19",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-05-26",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-06-02",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-06-09",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-06-16",
+      "commits": 1
+    },
+    {
+      "week_start": "2014-06-23",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-06-30",
+      "commits": 2
+    },
+    {
+      "week_start": "2014-07-07",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-07-14",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-07-21",
+      "commits": 3
+    },
+    {
+      "week_start": "2014-07-28",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-08-04",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-08-11",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-08-18",
+      "commits": 1
+    },
+    {
+      "week_start": "2014-08-25",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-09-01",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-09-08",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-09-15",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-09-22",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-09-29",
+      "commits": 2
+    },
+    {
+      "week_start": "2014-10-06",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-10-13",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-10-20",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-10-27",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-11-03",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-11-10",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-11-17",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-11-24",
+      "commits": 1
+    },
+    {
+      "week_start": "2014-12-01",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-12-08",
+      "commits": 2
+    },
+    {
+      "week_start": "2014-12-15",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-12-22",
+      "commits": 0
+    },
+    {
+      "week_start": "2014-12-29",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-01-05",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-01-12",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-01-19",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-01-26",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-02-02",
+      "commits": 3
+    },
+    {
+      "week_start": "2015-02-09",
+      "commits": 3
+    },
+    {
+      "week_start": "2015-02-16",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-02-23",
+      "commits": 3
+    },
+    {
+      "week_start": "2015-03-02",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-03-09",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-03-16",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-03-23",
+      "commits": 4
+    },
+    {
+      "week_start": "2015-03-30",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-04-06",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-04-13",
+      "commits": 1
+    },
+    {
+      "week_start": "2015-04-20",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-04-27",
+      "commits": 1
+    },
+    {
+      "week_start": "2015-05-04",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-05-11",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-05-18",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-05-25",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-06-01",
+      "commits": 1
+    },
+    {
+      "week_start": "2015-06-08",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-06-15",
+      "commits": 1
+    },
+    {
+      "week_start": "2015-06-22",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-06-29",
+      "commits": 4
+    },
+    {
+      "week_start": "2015-07-06",
+      "commits": 2
+    },
+    {
+      "week_start": "2015-07-13",
+      "commits": 2
+    },
+    {
+      "week_start": "2015-07-20",
+      "commits": 3
+    },
+    {
+      "week_start": "2015-07-27",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-08-03",
+      "commits": 2
+    },
+    {
+      "week_start": "2015-08-10",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-08-17",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-08-24",
+      "commits": 2
+    },
+    {
+      "week_start": "2015-08-31",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-09-07",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-09-14",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-09-21",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-09-28",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-10-05",
+      "commits": 3
+    },
+    {
+      "week_start": "2015-10-12",
+      "commits": 1
+    },
+    {
+      "week_start": "2015-10-19",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-10-26",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-11-02",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-11-09",
+      "commits": 2
+    },
+    {
+      "week_start": "2015-11-16",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-11-23",
+      "commits": 1
+    },
+    {
+      "week_start": "2015-11-30",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-12-07",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-12-14",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-12-21",
+      "commits": 0
+    },
+    {
+      "week_start": "2015-12-28",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-01-04",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-01-11",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-01-18",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-01-25",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-02-01",
+      "commits": 4
+    },
+    {
+      "week_start": "2016-02-08",
+      "commits": 2
+    },
+    {
+      "week_start": "2016-02-15",
+      "commits": 4
+    },
+    {
+      "week_start": "2016-02-22",
+      "commits": 1
+    },
+    {
+      "week_start": "2016-02-29",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-03-07",
+      "commits": 2
+    },
+    {
+      "week_start": "2016-03-14",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-03-21",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-03-28",
+      "commits": 2
+    },
+    {
+      "week_start": "2016-04-04",
+      "commits": 3
+    },
+    {
+      "week_start": "2016-04-11",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-04-18",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-04-25",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-05-02",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-05-09",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-05-16",
+      "commits": 2
+    },
+    {
+      "week_start": "2016-05-23",
+      "commits": 2
+    },
+    {
+      "week_start": "2016-05-30",
+      "commits": 1
+    },
+    {
+      "week_start": "2016-06-06",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-06-13",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-06-20",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-06-27",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-07-04",
+      "commits": 3
+    },
+    {
+      "week_start": "2016-07-11",
+      "commits": 1
+    },
+    {
+      "week_start": "2016-07-18",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-07-25",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-08-01",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-08-08",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-08-15",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-08-22",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-08-29",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-09-05",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-09-12",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-09-19",
+      "commits": 1
+    },
+    {
+      "week_start": "2016-09-26",
+      "commits": 1
+    },
+    {
+      "week_start": "2016-10-03",
+      "commits": 5
+    },
+    {
+      "week_start": "2016-10-10",
+      "commits": 3
+    },
+    {
+      "week_start": "2016-10-17",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-10-24",
+      "commits": 1
+    },
+    {
+      "week_start": "2016-10-31",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-11-07",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-11-14",
+      "commits": 3
+    },
+    {
+      "week_start": "2016-11-21",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-11-28",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-12-05",
+      "commits": 3
+    },
+    {
+      "week_start": "2016-12-12",
+      "commits": 2
+    },
+    {
+      "week_start": "2016-12-19",
+      "commits": 0
+    },
+    {
+      "week_start": "2016-12-26",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-01-02",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-01-09",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-01-16",
+      "commits": 1
+    },
+    {
+      "week_start": "2017-01-23",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-01-30",
+      "commits": 3
+    },
+    {
+      "week_start": "2017-02-06",
+      "commits": 4
+    },
+    {
+      "week_start": "2017-02-13",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-02-20",
+      "commits": 1
+    },
+    {
+      "week_start": "2017-02-27",
+      "commits": 2
+    },
+    {
+      "week_start": "2017-03-06",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-03-13",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-03-20",
+      "commits": 1
+    },
+    {
+      "week_start": "2017-03-27",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-04-03",
+      "commits": 2
+    },
+    {
+      "week_start": "2017-04-10",
+      "commits": 1
+    },
+    {
+      "week_start": "2017-04-17",
+      "commits": 2
+    },
+    {
+      "week_start": "2017-04-24",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-05-01",
+      "commits": 1
+    },
+    {
+      "week_start": "2017-05-08",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-05-15",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-05-22",
+      "commits": 4
+    },
+    {
+      "week_start": "2017-05-29",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-06-05",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-06-12",
+      "commits": 2
+    },
+    {
+      "week_start": "2017-06-19",
+      "commits": 2
+    },
+    {
+      "week_start": "2017-06-26",
+      "commits": 1
+    },
+    {
+      "week_start": "2017-07-03",
+      "commits": 6
+    },
+    {
+      "week_start": "2017-07-10",
+      "commits": 2
+    },
+    {
+      "week_start": "2017-07-17",
+      "commits": 1
+    },
+    {
+      "week_start": "2017-07-24",
+      "commits": 1
+    },
+    {
+      "week_start": "2017-07-31",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-08-07",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-08-14",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-08-21",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-08-28",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-09-04",
+      "commits": 1
+    },
+    {
+      "week_start": "2017-09-11",
+      "commits": 4
+    },
+    {
+      "week_start": "2017-09-18",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-09-25",
+      "commits": 2
+    },
+    {
+      "week_start": "2017-10-02",
+      "commits": 1
+    },
+    {
+      "week_start": "2017-10-09",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-10-16",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-10-23",
+      "commits": 4
+    },
+    {
+      "week_start": "2017-10-30",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-11-06",
+      "commits": 3
+    },
+    {
+      "week_start": "2017-11-13",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-11-20",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-11-27",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-12-04",
+      "commits": 1
+    },
+    {
+      "week_start": "2017-12-11",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-12-18",
+      "commits": 0
+    },
+    {
+      "week_start": "2017-12-25",
+      "commits": 2
+    }
+  ],
+  "commits": [
+    {
+      "date": "2013-01-07T10:17:00+00:00",
+      "files": [
+        ".gitattributes",
+        ".gitignore",
+        "README.md",
+        "HISTORY.md"
+      ],
+      "subject": "document source project and simulated history"
+    },
+    {
+      "date": "2013-01-15T12:57:09+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/AnomalyDetector.java",
+        "src/main/java/com/ima/analytics/AnomalyResult.java"
+      ],
+      "subject": "implement anomaly analytics and result models"
+    },
+    {
+      "date": "2013-01-23T16:40:05+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/BinomialInterval.java"
+      ],
+      "subject": "add binomial interval for analytics"
+    },
+    {
+      "date": "2013-01-25T14:05:24+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/BreakdownCalculator.java",
+        "src/main/java/com/ima/analytics/BreakdownRow.java"
+      ],
+      "subject": "implement breakdown analytics and result models"
+    },
+    {
+      "date": "2013-01-28T19:14:18+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/CrashCalculator.java",
+        "src/main/java/com/ima/analytics/CrashSummary.java"
+      ],
+      "subject": "implement crash analytics and result models"
+    },
+    {
+      "date": "2013-02-11T17:37:57+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/DescriptiveStatistics.java"
+      ],
+      "subject": "add descriptive statistics for analytics"
+    },
+    {
+      "date": "2013-02-15T12:26:56+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/Dimension.java"
+      ],
+      "subject": "add dimension for analytics"
+    },
+    {
+      "date": "2013-02-25T13:21:23+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/EngagementCalculator.java",
+        "src/main/java/com/ima/analytics/EngagementRow.java"
+      ],
+      "subject": "implement engagement analytics and result models"
+    },
+    {
+      "date": "2013-02-27T18:41:13+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/EventOrdering.java"
+      ],
+      "subject": "add event ordering for analytics"
+    },
+    {
+      "date": "2013-02-28T09:19:02+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/EventPredicate.java"
+      ],
+      "subject": "add event predicate for analytics"
+    },
+    {
+      "date": "2013-03-05T12:36:39+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/ExperimentCalculator.java",
+        "src/main/java/com/ima/analytics/ExperimentResult.java"
+      ],
+      "subject": "implement experiment analytics and result models"
+    },
+    {
+      "date": "2013-03-18T16:19:28+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/FunnelCalculator.java",
+        "src/main/java/com/ima/analytics/FunnelDefinition.java"
+      ],
+      "subject": "implement funnel analytics and result models"
+    },
+    {
+      "date": "2013-03-26T17:57:36+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/FunnelResult.java"
+      ],
+      "subject": "add funnel result for analytics"
+    },
+    {
+      "date": "2013-03-28T17:18:03+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/MetricPoint.java"
+      ],
+      "subject": "add metric point for analytics"
+    },
+    {
+      "date": "2013-03-29T15:29:11+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/PathCalculator.java",
+        "src/main/java/com/ima/analytics/PathEdge.java"
+      ],
+      "subject": "implement path analytics and result models"
+    },
+    {
+      "date": "2013-04-04T09:15:18+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/PredicateOperator.java"
+      ],
+      "subject": "add predicate operator for analytics"
+    },
+    {
+      "date": "2013-04-04T12:10:48+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/RetentionCalculator.java",
+        "src/main/java/com/ima/analytics/RetentionRow.java"
+      ],
+      "subject": "implement retention analytics and result models"
+    },
+    {
+      "date": "2013-05-27T17:58:20+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/RevenueCalculator.java",
+        "src/main/java/com/ima/analytics/RevenueSummary.java"
+      ],
+      "subject": "implement revenue analytics and result models"
+    },
+    {
+      "date": "2013-07-12T14:37:10+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/SegmentCalculator.java",
+        "src/main/java/com/ima/analytics/SegmentDefinition.java"
+      ],
+      "subject": "implement segment analytics and result models"
+    },
+    {
+      "date": "2013-08-22T17:57:29+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/SegmentMember.java"
+      ],
+      "subject": "add segment member for analytics"
+    },
+    {
+      "date": "2013-09-02T15:33:10+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/SessionSummary.java"
+      ],
+      "subject": "add session summary for analytics"
+    },
+    {
+      "date": "2013-09-06T14:50:56+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/Sessionizer.java"
+      ],
+      "subject": "add sessionizer for analytics"
+    },
+    {
+      "date": "2013-09-11T17:08:20+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/TimeSeriesCalculator.java"
+      ],
+      "subject": "add time series calculator for analytics"
+    },
+    {
+      "date": "2013-09-11T19:53:23+00:00",
+      "files": [
+        "src/main/java/com/ima/analytics/UtcBuckets.java"
+      ],
+      "subject": "add utc buckets for analytics"
+    },
+    {
+      "date": "2013-09-17T17:58:37+00:00",
+      "files": [
+        "src/main/java/com/ima/domain/Checks.java"
+      ],
+      "subject": "add checks for domain"
+    },
+    {
+      "date": "2013-09-17T19:55:26+00:00",
+      "files": [
+        "src/main/java/com/ima/domain/Event.java"
+      ],
+      "subject": "add event for domain"
+    },
+    {
+      "date": "2013-10-04T10:27:25+00:00",
+      "files": [
+        "src/main/java/com/ima/domain/EventKey.java"
+      ],
+      "subject": "add event key for domain"
+    },
+    {
+      "date": "2013-10-11T09:08:30+00:00",
+      "files": [
+        "src/main/java/com/ima/domain/Money.java"
+      ],
+      "subject": "add money for domain"
+    },
+    {
+      "date": "2013-10-17T14:07:33+00:00",
+      "files": [
+        "src/main/java/com/ima/domain/Page.java"
+      ],
+      "subject": "add page for domain"
+    },
+    {
+      "date": "2013-10-18T11:40:53+00:00",
+      "files": [
+        "src/main/java/com/ima/domain/Platform.java"
+      ],
+      "subject": "add platform for domain"
+    },
+    {
+      "date": "2013-10-18T12:50:02+00:00",
+      "files": [
+        "src/main/java/com/ima/domain/Session.java"
+      ],
+      "subject": "add session for domain"
+    },
+    {
+      "date": "2013-11-13T16:14:44+00:00",
+      "files": [
+        "src/main/java/com/ima/domain/TimeRange.java"
+      ],
+      "subject": "add time range for domain"
+    },
+    {
+      "date": "2013-11-15T11:32:26+00:00",
+      "files": [
+        "src/main/java/com/ima/domain/UserKey.java"
+      ],
+      "subject": "add user key for domain"
+    },
+    {
+      "date": "2014-01-20T15:12:51+00:00",
+      "files": [
+        "sql/mysql/001_metadata.sql"
+      ],
+      "subject": "add MySQL metadata SQL"
+    },
+    {
+      "date": "2014-01-21T10:20:56+00:00",
+      "files": [
+        "sql/mysql/002_batch_jobs.sql"
+      ],
+      "subject": "add MySQL batch jobs SQL"
+    },
+    {
+      "date": "2014-01-22T13:38:52+00:00",
+      "files": [
+        "sql/mysql/003_reporting.sql"
+      ],
+      "subject": "add MySQL reporting SQL"
+    },
+    {
+      "date": "2014-01-22T19:59:05+00:00",
+      "files": [
+        "sql/mysql/004_governance.sql"
+      ],
+      "subject": "add MySQL governance SQL"
+    },
+    {
+      "date": "2014-01-28T18:24:50+00:00",
+      "files": [
+        "sql/mysql/queries/application_overview.sql"
+      ],
+      "subject": "add MySQL application overview SQL"
+    },
+    {
+      "date": "2014-01-29T14:17:12+00:00",
+      "files": [
+        "sql/mysql/queries/job_health.sql"
+      ],
+      "subject": "add MySQL job health SQL"
+    },
+    {
+      "date": "2014-01-31T10:05:58+00:00",
+      "files": [
+        "sql/mysql/queries/retention_curve.sql"
+      ],
+      "subject": "add MySQL retention curve SQL"
+    },
+    {
+      "date": "2014-04-22T15:15:18+00:00",
+      "files": [
+        "sql/mysql/queries/revenue_overview.sql"
+      ],
+      "subject": "add MySQL revenue overview SQL"
+    },
+    {
+      "date": "2014-04-23T14:48:44+00:00",
+      "files": [
+        "src/main/java/com/ima/persistence/ApplicationEntity.java",
+        "src/main/java/com/ima/persistence/ApplicationRepository.java"
+      ],
+      "subject": "implement application persistence"
+    },
+    {
+      "date": "2014-04-30T13:15:03+00:00",
+      "files": [
+        "src/main/java/com/ima/persistence/AuditEntity.java"
+      ],
+      "subject": "add audit entity for persistence"
+    },
+    {
+      "date": "2014-05-01T16:53:21+00:00",
+      "files": [
+        "src/main/java/com/ima/persistence/AuditRepository.java"
+      ],
+      "subject": "add audit repository for persistence"
+    },
+    {
+      "date": "2014-05-14T18:29:46+00:00",
+      "files": [
+        "src/main/java/com/ima/persistence/CredentialEntity.java"
+      ],
+      "subject": "add credential entity for persistence"
+    },
+    {
+      "date": "2014-05-16T10:51:50+00:00",
+      "files": [
+        "src/main/java/com/ima/persistence/HibernateCredentialStore.java"
+      ],
+      "subject": "add hibernate credential store for persistence"
+    },
+    {
+      "date": "2014-05-16T12:39:10+00:00",
+      "files": [
+        "src/main/java/com/ima/persistence/HibernateTransactions.java"
+      ],
+      "subject": "add hibernate transactions for persistence"
+    },
+    {
+      "date": "2014-05-16T14:24:58+00:00",
+      "files": [
+        "src/main/java/com/ima/persistence/JobEntity.java"
+      ],
+      "subject": "add job entity for persistence"
+    },
+    {
+      "date": "2014-06-20T08:50:24+00:00",
+      "files": [
+        "src/main/java/com/ima/persistence/JobRepository.java"
+      ],
+      "subject": "add job repository for persistence"
+    },
+    {
+      "date": "2014-07-03T19:45:15+00:00",
+      "files": [
+        "src/main/java/com/ima/persistence/ReportEntity.java"
+      ],
+      "subject": "add report entity for persistence"
+    },
+    {
+      "date": "2014-07-04T13:44:45+00:00",
+      "files": [
+        "src/main/java/com/ima/persistence/ReportRepository.java"
+      ],
+      "subject": "add report repository for persistence"
+    },
+    {
+      "date": "2014-07-23T13:23:07+00:00",
+      "files": [
+        "src/main/java/com/ima/store/CredentialStore.java"
+      ],
+      "subject": "add credential store for store"
+    },
+    {
+      "date": "2014-07-23T18:08:10+00:00",
+      "files": [
+        "src/main/java/com/ima/store/EventQuery.java"
+      ],
+      "subject": "add event query for store"
+    },
+    {
+      "date": "2014-07-25T11:53:08+00:00",
+      "files": [
+        "src/main/java/com/ima/store/EventStore.java"
+      ],
+      "subject": "add event store for store"
+    },
+    {
+      "date": "2014-08-20T08:05:15+00:00",
+      "files": [
+        "src/main/java/com/ima/store/InMemoryCredentialStore.java"
+      ],
+      "subject": "add in memory credential store for store"
+    },
+    {
+      "date": "2014-10-02T18:07:28+00:00",
+      "files": [
+        "src/main/java/com/ima/store/InMemoryEventStore.java"
+      ],
+      "subject": "add in memory event store for store"
+    },
+    {
+      "date": "2014-10-03T08:00:35+00:00",
+      "files": [
+        "src/main/java/com/ima/store/MongoEventCodec.java"
+      ],
+      "subject": "add mongo event codec for store"
+    },
+    {
+      "date": "2014-11-26T15:54:05+00:00",
+      "files": [
+        "src/main/java/com/ima/store/MongoEventStore.java"
+      ],
+      "subject": "add mongo event store for store"
+    },
+    {
+      "date": "2014-12-08T19:30:13+00:00",
+      "files": [
+        "src/main/java/com/ima/store/SaveResult.java"
+      ],
+      "subject": "add save result for store"
+    },
+    {
+      "date": "2014-12-11T15:35:05+00:00",
+      "files": [
+        "src/main/java/com/ima/store/StoreUnavailableException.java"
+      ],
+      "subject": "add store unavailable exception for store"
+    },
+    {
+      "date": "2015-02-02T19:37:42+00:00",
+      "files": [
+        "src/main/java/com/ima/catalog/EventSchema.java"
+      ],
+      "subject": "add event schema for catalog"
+    },
+    {
+      "date": "2015-02-03T18:39:11+00:00",
+      "files": [
+        "src/main/java/com/ima/catalog/PropertyRule.java"
+      ],
+      "subject": "add property rule for catalog"
+    },
+    {
+      "date": "2015-02-04T08:59:55+00:00",
+      "files": [
+        "src/main/java/com/ima/catalog/PropertyType.java"
+      ],
+      "subject": "add property type for catalog"
+    },
+    {
+      "date": "2015-02-09T09:17:02+00:00",
+      "files": [
+        "src/main/java/com/ima/catalog/SchemaCompatibility.java"
+      ],
+      "subject": "add schema compatibility for catalog"
+    },
+    {
+      "date": "2015-02-10T08:38:44+00:00",
+      "files": [
+        "src/main/java/com/ima/client/AnalyticsClient.java"
+      ],
+      "subject": "add analytics client for client"
+    },
+    {
+      "date": "2015-02-13T14:09:39+00:00",
+      "files": [
+        "src/main/java/com/ima/client/ClientEvent.java"
+      ],
+      "subject": "add client event for client"
+    },
+    {
+      "date": "2015-02-23T12:05:16+00:00",
+      "files": [
+        "src/main/java/com/ima/client/ClientException.java"
+      ],
+      "subject": "add client exception for client"
+    },
+    {
+      "date": "2015-02-25T09:52:38+00:00",
+      "files": [
+        "src/main/java/com/ima/client/ClientOptions.java"
+      ],
+      "subject": "add client options for client"
+    },
+    {
+      "date": "2015-02-26T13:30:03+00:00",
+      "files": [
+        "src/main/java/com/ima/client/DeliveryOutcome.java"
+      ],
+      "subject": "add delivery outcome for client"
+    },
+    {
+      "date": "2015-03-25T12:15:41+00:00",
+      "files": [
+        "src/main/java/com/ima/client/EventBuffer.java"
+      ],
+      "subject": "add event buffer for client"
+    },
+    {
+      "date": "2015-03-26T12:20:10+00:00",
+      "files": [
+        "src/main/java/com/ima/client/RetryPolicy.java"
+      ],
+      "subject": "add retry policy for client"
+    },
+    {
+      "date": "2015-03-27T11:28:09+00:00",
+      "files": [
+        "src/main/java/com/ima/security/AccessDeniedException.java"
+      ],
+      "subject": "add access denied exception for security"
+    },
+    {
+      "date": "2015-03-27T14:12:12+00:00",
+      "files": [
+        "src/main/java/com/ima/security/ApiCredential.java"
+      ],
+      "subject": "add api credential for security"
+    },
+    {
+      "date": "2015-04-14T09:04:40+00:00",
+      "files": [
+        "src/main/java/com/ima/security/ApiKeyHasher.java"
+      ],
+      "subject": "add api key hasher for security"
+    },
+    {
+      "date": "2015-04-28T14:20:35+00:00",
+      "files": [
+        "src/main/java/com/ima/security/AuthenticationException.java"
+      ],
+      "subject": "add authentication exception for security"
+    },
+    {
+      "date": "2015-06-05T12:22:20+00:00",
+      "files": [
+        "src/main/java/com/ima/security/Authenticator.java"
+      ],
+      "subject": "add authenticator for security"
+    },
+    {
+      "date": "2015-06-16T14:43:29+00:00",
+      "files": [
+        "src/main/java/com/ima/security/Principal.java"
+      ],
+      "subject": "add principal for security"
+    },
+    {
+      "date": "2015-06-29T14:41:45+00:00",
+      "files": [
+        "src/main/java/com/ima/security/RateDecision.java"
+      ],
+      "subject": "add rate decision for security"
+    },
+    {
+      "date": "2015-07-01T09:00:46+00:00",
+      "files": [
+        "src/main/java/com/ima/security/RateLimiter.java"
+      ],
+      "subject": "add rate limiter for security"
+    },
+    {
+      "date": "2015-07-02T17:49:43+00:00",
+      "files": [
+        "src/main/java/com/ima/security/Scope.java"
+      ],
+      "subject": "add scope for security"
+    },
+    {
+      "date": "2015-07-03T16:01:35+00:00",
+      "files": [
+        "src/main/java/com/ima/security/TokenBucketLimiter.java"
+      ],
+      "subject": "add token bucket limiter for security"
+    },
+    {
+      "date": "2015-07-06T12:28:35+00:00",
+      "files": [
+        "src/main/java/com/ima/service/AnalyticsService.java"
+      ],
+      "subject": "add analytics service for service"
+    },
+    {
+      "date": "2015-07-08T18:42:50+00:00",
+      "files": [
+        "src/main/java/com/ima/service/ApplicationService.java"
+      ],
+      "subject": "add application service for service"
+    },
+    {
+      "date": "2015-07-13T16:50:13+00:00",
+      "files": [
+        "src/main/java/com/ima/service/CachedReportService.java"
+      ],
+      "subject": "add cached report service for service"
+    },
+    {
+      "date": "2015-07-16T14:29:33+00:00",
+      "files": [
+        "src/main/java/com/ima/service/CredentialService.java"
+      ],
+      "subject": "add credential service for service"
+    },
+    {
+      "date": "2015-07-21T18:09:44+00:00",
+      "files": [
+        "src/main/java/com/ima/service/EventInput.java"
+      ],
+      "subject": "add event input for service"
+    },
+    {
+      "date": "2015-07-22T15:07:58+00:00",
+      "files": [
+        "src/main/java/com/ima/service/IngestionItem.java"
+      ],
+      "subject": "add ingestion item for service"
+    },
+    {
+      "date": "2015-07-23T09:40:31+00:00",
+      "files": [
+        "src/main/java/com/ima/service/IngestionPolicy.java"
+      ],
+      "subject": "add ingestion policy for service"
+    },
+    {
+      "date": "2015-08-03T08:11:20+00:00",
+      "files": [
+        "src/main/java/com/ima/service/IngestionResult.java"
+      ],
+      "subject": "add ingestion result for service"
+    },
+    {
+      "date": "2015-08-06T17:54:39+00:00",
+      "files": [
+        "src/main/java/com/ima/service/IngestionService.java"
+      ],
+      "subject": "add ingestion service for service"
+    },
+    {
+      "date": "2015-08-24T16:19:54+00:00",
+      "files": [
+        "src/main/java/com/ima/service/JobService.java"
+      ],
+      "subject": "add job service for service"
+    },
+    {
+      "date": "2015-08-25T12:33:39+00:00",
+      "files": [
+        "src/main/java/com/ima/service/PrivacyService.java"
+      ],
+      "subject": "add privacy service for service"
+    },
+    {
+      "date": "2015-10-06T19:48:19+00:00",
+      "files": [
+        "src/main/java/com/ima/service/QueryTooLargeException.java"
+      ],
+      "subject": "add query too large exception for service"
+    },
+    {
+      "date": "2015-10-07T15:04:11+00:00",
+      "files": [
+        "src/main/java/com/ima/service/RateLimitException.java"
+      ],
+      "subject": "add rate limit exception for service"
+    },
+    {
+      "date": "2015-10-08T11:31:24+00:00",
+      "files": [
+        "src/main/java/com/ima/service/ReportDefinition.java"
+      ],
+      "subject": "add report definition for service"
+    },
+    {
+      "date": "2015-10-14T09:08:03+00:00",
+      "files": [
+        "src/main/java/com/ima/service/ReportType.java"
+      ],
+      "subject": "add report type for service"
+    },
+    {
+      "date": "2015-11-13T10:11:20+00:00",
+      "files": [
+        "src/main/java/com/ima/service/ResourceNotFoundException.java"
+      ],
+      "subject": "add resource not found exception for service"
+    },
+    {
+      "date": "2015-11-13T14:02:23+00:00",
+      "files": [
+        "src/main/java/com/ima/service/RevisionConflictException.java"
+      ],
+      "subject": "add revision conflict exception for service"
+    },
+    {
+      "date": "2015-11-24T12:31:36+00:00",
+      "files": [
+        "src/main/java/com/ima/service/SavedReportService.java"
+      ],
+      "subject": "add saved report service for service"
+    },
+    {
+      "date": "2016-02-01T09:19:08+00:00",
+      "files": [
+        "batch/ima_batch/__init__.py"
+      ],
+      "subject": "initialize batch analytics package"
+    },
+    {
+      "date": "2016-02-02T15:28:13+00:00",
+      "files": [
+        "batch/ima_batch/__main__.py"
+      ],
+      "subject": "provide batch command entry point"
+    },
+    {
+      "date": "2016-02-02T17:02:47+00:00",
+      "files": [
+        "batch/ima_batch/aggregates.py"
+      ],
+      "subject": "add batch aggregates"
+    },
+    {
+      "date": "2016-02-03T12:09:39+00:00",
+      "files": [
+        "batch/ima_batch/alerts.py"
+      ],
+      "subject": "add batch alerts"
+    },
+    {
+      "date": "2016-02-12T09:08:50+00:00",
+      "files": [
+        "batch/ima_batch/anomalies.py"
+      ],
+      "subject": "add batch anomalies"
+    },
+    {
+      "date": "2016-02-12T09:50:41+00:00",
+      "files": [
+        "batch/ima_batch/attribution.py"
+      ],
+      "subject": "add batch attribution"
+    },
+    {
+      "date": "2016-02-17T14:59:24+00:00",
+      "files": [
+        "batch/ima_batch/catalog.py"
+      ],
+      "subject": "add batch catalog"
+    },
+    {
+      "date": "2016-02-17T15:11:17+00:00",
+      "files": [
+        "batch/ima_batch/checkpoint.py"
+      ],
+      "subject": "add batch checkpoint"
+    },
+    {
+      "date": "2016-02-18T11:27:40+00:00",
+      "files": [
+        "batch/ima_batch/cli.py"
+      ],
+      "subject": "add batch analytics command interface"
+    },
+    {
+      "date": "2016-02-19T16:27:52+00:00",
+      "files": [
+        "batch/ima_batch/compat.py"
+      ],
+      "subject": "support legacy Python compatibility"
+    },
+    {
+      "date": "2016-02-26T08:26:27+00:00",
+      "files": [
+        "batch/ima_batch/dbcli.py"
+      ],
+      "subject": "add database migration and loading commands"
+    },
+    {
+      "date": "2016-03-08T12:07:48+00:00",
+      "files": [
+        "batch/ima_batch/errors.py"
+      ],
+      "subject": "add batch errors"
+    },
+    {
+      "date": "2016-03-09T14:00:54+00:00",
+      "files": [
+        "batch/ima_batch/experiments.py"
+      ],
+      "subject": "add batch experiments"
+    },
+    {
+      "date": "2016-03-31T17:54:57+00:00",
+      "files": [
+        "batch/ima_batch/forecast.py"
+      ],
+      "subject": "add batch forecast"
+    },
+    {
+      "date": "2016-04-01T18:28:36+00:00",
+      "files": [
+        "batch/ima_batch/funnels.py"
+      ],
+      "subject": "add batch funnels"
+    },
+    {
+      "date": "2016-04-05T13:51:38+00:00",
+      "files": [
+        "batch/ima_batch/ingestcli.py"
+      ],
+      "subject": "add event ingestion and spool commands"
+    },
+    {
+      "date": "2016-04-05T18:20:08+00:00",
+      "files": [
+        "batch/ima_batch/mysql.py"
+      ],
+      "subject": "add MySQL migration and aggregate loading"
+    },
+    {
+      "date": "2016-04-08T13:52:56+00:00",
+      "files": [
+        "batch/ima_batch/ordering.py"
+      ],
+      "subject": "add batch ordering"
+    },
+    {
+      "date": "2016-05-16T19:06:46+00:00",
+      "files": [
+        "batch/ima_batch/pipeline.py"
+      ],
+      "subject": "add batch pipeline"
+    },
+    {
+      "date": "2016-05-17T13:19:19+00:00",
+      "files": [
+        "batch/ima_batch/privacy.py"
+      ],
+      "subject": "add batch privacy"
+    },
+    {
+      "date": "2016-05-25T11:37:29+00:00",
+      "files": [
+        "batch/ima_batch/quality.py"
+      ],
+      "subject": "add batch quality"
+    },
+    {
+      "date": "2016-05-27T12:51:05+00:00",
+      "files": [
+        "batch/ima_batch/reconcile.py"
+      ],
+      "subject": "add batch reconcile"
+    },
+    {
+      "date": "2016-05-30T19:26:25+00:00",
+      "files": [
+        "batch/ima_batch/retention.py"
+      ],
+      "subject": "add batch retention"
+    },
+    {
+      "date": "2016-07-04T09:25:10+00:00",
+      "files": [
+        "batch/ima_batch/rfm.py"
+      ],
+      "subject": "calculate customer recency frequency and value"
+    },
+    {
+      "date": "2016-07-04T14:33:19+00:00",
+      "files": [
+        "batch/ima_batch/segments.py"
+      ],
+      "subject": "add batch segments"
+    },
+    {
+      "date": "2016-07-04T16:15:00+00:00",
+      "files": [
+        "batch/ima_batch/serialization.py"
+      ],
+      "subject": "add batch serialization"
+    },
+    {
+      "date": "2016-07-11T15:19:51+00:00",
+      "files": [
+        "batch/ima_batch/sessions.py"
+      ],
+      "subject": "add batch sessions"
+    },
+    {
+      "date": "2016-09-19T13:22:04+00:00",
+      "files": [
+        "batch/ima_batch/spool.py"
+      ],
+      "subject": "add batch spool"
+    },
+    {
+      "date": "2016-09-26T19:34:42+00:00",
+      "files": [
+        "batch/ima_batch/statistics.py"
+      ],
+      "subject": "add batch statistics"
+    },
+    {
+      "date": "2016-10-04T19:03:42+00:00",
+      "files": [
+        "batch/ima_batch/streaming.py"
+      ],
+      "subject": "add batch streaming"
+    },
+    {
+      "date": "2016-10-05T10:18:55+00:00",
+      "files": [
+        "batch/ima_batch/timeutil.py"
+      ],
+      "subject": "add UTC timestamp and interval utilities"
+    },
+    {
+      "date": "2016-10-05T11:13:36+00:00",
+      "files": [
+        "batch/ima_batch/transport.py"
+      ],
+      "subject": "add batch transport"
+    },
+    {
+      "date": "2016-10-06T16:12:34+00:00",
+      "files": [
+        "batch/ima_batch/validation.py"
+      ],
+      "subject": "add batch validation"
+    },
+    {
+      "date": "2016-10-07T19:21:30+00:00",
+      "files": [
+        "batch/ima_batch/warehouse.py"
+      ],
+      "subject": "add batch warehouse"
+    },
+    {
+      "date": "2016-10-11T09:06:52+00:00",
+      "files": [
+        "ops/hadoop-daily.sh"
+      ],
+      "subject": "add hadoop daily operations script"
+    },
+    {
+      "date": "2016-10-12T09:15:47+00:00",
+      "files": [
+        "ops/hadoop-deduplicate.sh"
+      ],
+      "subject": "add hadoop deduplicate operations script"
+    },
+    {
+      "date": "2016-10-13T13:42:00+00:00",
+      "files": [
+        "ops/hadoop-sessions.sh"
+      ],
+      "subject": "add hadoop sessions operations script"
+    },
+    {
+      "date": "2016-10-28T16:30:38+00:00",
+      "files": [
+        "sql/hive/001_tables.sql"
+      ],
+      "subject": "add Hive tables SQL"
+    },
+    {
+      "date": "2016-11-16T08:31:10+00:00",
+      "files": [
+        "sql/hive/002_daily_aggregation.sql"
+      ],
+      "subject": "add Hive daily aggregation SQL"
+    },
+    {
+      "date": "2016-11-17T10:03:43+00:00",
+      "files": [
+        "sql/hive/003_acquisition.sql"
+      ],
+      "subject": "add Hive acquisition SQL"
+    },
+    {
+      "date": "2016-11-18T19:19:15+00:00",
+      "files": [
+        "sql/hive/004_sessionization.sql"
+      ],
+      "subject": "add Hive sessionization SQL"
+    },
+    {
+      "date": "2016-12-05T09:10:31+00:00",
+      "files": [
+        "sql/hive/005_retention.sql"
+      ],
+      "subject": "add Hive retention SQL"
+    },
+    {
+      "date": "2016-12-08T13:42:52+00:00",
+      "files": [
+        "src/main/java/com/ima/cache/CacheKey.java"
+      ],
+      "subject": "add cache key for cache"
+    },
+    {
+      "date": "2016-12-09T17:31:37+00:00",
+      "files": [
+        "src/main/java/com/ima/cache/NoOpReportCache.java"
+      ],
+      "subject": "add no op report cache for cache"
+    },
+    {
+      "date": "2016-12-12T18:37:58+00:00",
+      "files": [
+        "src/main/java/com/ima/cache/RedisReportCache.java"
+      ],
+      "subject": "add redis report cache for cache"
+    },
+    {
+      "date": "2016-12-14T19:40:49+00:00",
+      "files": [
+        "src/main/java/com/ima/cache/ReportCache.java"
+      ],
+      "subject": "add report cache for cache"
+    },
+    {
+      "date": "2017-01-17T09:46:19+00:00",
+      "files": [
+        "Jenkinsfile"
+      ],
+      "subject": "define Jenkins build and test pipeline"
+    },
+    {
+      "date": "2017-01-31T10:52:18+00:00",
+      "files": [
+        "batch/requirements-optional.txt"
+      ],
+      "subject": "configure requirements optional"
+    },
+    {
+      "date": "2017-01-31T13:24:07+00:00",
+      "files": [
+        "batch/tests/test_analytics.py"
+      ],
+      "subject": "add batch test analytics"
+    },
+    {
+      "date": "2017-01-31T15:53:20+00:00",
+      "files": [
+        "docs/architecture.md"
+      ],
+      "subject": "document architecture"
+    },
+    {
+      "date": "2017-02-06T08:22:25+00:00",
+      "files": [
+        "docs/semantics.md"
+      ],
+      "subject": "document semantics"
+    },
+    {
+      "date": "2017-02-06T10:23:10+00:00",
+      "files": [
+        "docs/source-inventory.json"
+      ],
+      "subject": "record source inventory"
+    },
+    {
+      "date": "2017-02-09T08:37:56+00:00",
+      "files": [
+        "docs/static-review.json"
+      ],
+      "subject": "record static review"
+    },
+    {
+      "date": "2017-02-09T15:02:18+00:00",
+      "files": [
+        "ops/build.sh"
+      ],
+      "subject": "add build operations script"
+    },
+    {
+      "date": "2017-02-20T14:13:04+00:00",
+      "files": [
+        "ops/deploy.sh"
+      ],
+      "subject": "add deploy operations script"
+    },
+    {
+      "date": "2017-02-28T10:08:14+00:00",
+      "files": [
+        "ops/healthcheck.sh"
+      ],
+      "subject": "add healthcheck operations script"
+    },
+    {
+      "date": "2017-03-01T10:41:10+00:00",
+      "files": [
+        "ops/hive-daily.sh"
+      ],
+      "subject": "add hive daily operations script"
+    },
+    {
+      "date": "2017-03-24T17:43:43+00:00",
+      "files": [
+        "ops/mysql-backup.sh"
+      ],
+      "subject": "add mysql backup operations script"
+    },
+    {
+      "date": "2017-04-04T11:40:30+00:00",
+      "files": [
+        "ops/report.sh"
+      ],
+      "subject": "add report operations script"
+    },
+    {
+      "date": "2017-04-07T18:04:44+00:00",
+      "files": [
+        "pom.xml"
+      ],
+      "subject": "configure Maven WAR dependencies and packaging"
+    },
+    {
+      "date": "2017-04-14T09:23:32+00:00",
+      "files": [
+        "src/main/java/com/ima/admin/ProvisionApplication.java"
+      ],
+      "subject": "add provision application for admin"
+    },
+    {
+      "date": "2017-04-17T14:14:17+00:00",
+      "files": [
+        "src/main/java/com/ima/admin/RunBatchWorker.java"
+      ],
+      "subject": "add run batch worker for admin"
+    },
+    {
+      "date": "2017-04-20T17:46:13+00:00",
+      "files": [
+        "src/main/java/com/ima/config/ApplicationConfiguration.java"
+      ],
+      "subject": "add application configuration for config"
+    },
+    {
+      "date": "2017-05-02T19:50:54+00:00",
+      "files": [
+        "src/main/java/com/ima/config/DemoConfiguration.java"
+      ],
+      "subject": "add demo configuration for config"
+    },
+    {
+      "date": "2017-05-23T18:32:21+00:00",
+      "files": [
+        "src/main/java/com/ima/config/PersistentConfiguration.java"
+      ],
+      "subject": "add persistent configuration for config"
+    },
+    {
+      "date": "2017-05-24T13:27:50+00:00",
+      "files": [
+        "src/main/java/com/ima/config/Settings.java"
+      ],
+      "subject": "add settings for config"
+    },
+    {
+      "date": "2017-05-25T10:41:37+00:00",
+      "files": [
+        "src/main/java/com/ima/config/WebConfiguration.java"
+      ],
+      "subject": "add web configuration for config"
+    },
+    {
+      "date": "2017-05-25T12:40:00+00:00",
+      "files": [
+        "src/main/java/com/ima/config/WebInitializer.java"
+      ],
+      "subject": "add web initializer for config"
+    },
+    {
+      "date": "2017-06-14T15:36:12+00:00",
+      "files": [
+        "src/main/java/com/ima/export/CsvWriter.java"
+      ],
+      "subject": "add csv writer for export"
+    },
+    {
+      "date": "2017-06-14T18:56:42+00:00",
+      "files": [
+        "src/main/java/com/ima/export/EventExporter.java"
+      ],
+      "subject": "add event exporter for export"
+    },
+    {
+      "date": "2017-06-21T19:42:44+00:00",
+      "files": [
+        "src/main/java/com/ima/jobs/JobArtifactWriter.java"
+      ],
+      "subject": "add job artifact writer for jobs"
+    },
+    {
+      "date": "2017-06-22T08:48:42+00:00",
+      "files": [
+        "src/main/java/com/ima/jobs/LocalBatchWorker.java"
+      ],
+      "subject": "add local batch worker for jobs"
+    },
+    {
+      "date": "2017-06-26T19:39:36+00:00",
+      "files": [
+        "src/main/java/com/ima/metrics/Counter.java"
+      ],
+      "subject": "add counter for metrics"
+    },
+    {
+      "date": "2017-07-03T11:00:27+00:00",
+      "files": [
+        "src/main/java/com/ima/metrics/Histogram.java"
+      ],
+      "subject": "add histogram for metrics"
+    },
+    {
+      "date": "2017-07-03T16:37:20+00:00",
+      "files": [
+        "src/main/java/com/ima/metrics/RequestMetrics.java"
+      ],
+      "subject": "add request metrics for metrics"
+    },
+    {
+      "date": "2017-07-05T13:59:26+00:00",
+      "files": [
+        "src/main/java/com/ima/web/AnalyticsController.java"
+      ],
+      "subject": "add analytics controller for web"
+    },
+    {
+      "date": "2017-07-05T19:09:07+00:00",
+      "files": [
+        "src/main/java/com/ima/web/ApiError.java"
+      ],
+      "subject": "add api error for web"
+    },
+    {
+      "date": "2017-07-07T08:55:09+00:00",
+      "files": [
+        "src/main/java/com/ima/web/ApiExceptionHandler.java"
+      ],
+      "subject": "add api exception handler for web"
+    },
+    {
+      "date": "2017-07-07T17:19:39+00:00",
+      "files": [
+        "src/main/java/com/ima/web/ApplicationController.java"
+      ],
+      "subject": "add application controller for web"
+    },
+    {
+      "date": "2017-07-11T10:14:13+00:00",
+      "files": [
+        "src/main/java/com/ima/web/ApplicationInput.java"
+      ],
+      "subject": "add application input for web"
+    },
+    {
+      "date": "2017-07-13T13:42:01+00:00",
+      "files": [
+        "src/main/java/com/ima/web/AuthenticationInterceptor.java"
+      ],
+      "subject": "add authentication interceptor for web"
+    },
+    {
+      "date": "2017-07-18T18:00:57+00:00",
+      "files": [
+        "src/main/java/com/ima/web/BodyLimitFilter.java"
+      ],
+      "subject": "add body limit filter for web"
+    },
+    {
+      "date": "2017-07-27T14:55:32+00:00",
+      "files": [
+        "src/main/java/com/ima/web/CredentialController.java"
+      ],
+      "subject": "add credential controller for web"
+    },
+    {
+      "date": "2017-09-07T17:19:04+00:00",
+      "files": [
+        "src/main/java/com/ima/web/CredentialInput.java"
+      ],
+      "subject": "add credential input for web"
+    },
+    {
+      "date": "2017-09-13T15:46:55+00:00",
+      "files": [
+        "src/main/java/com/ima/web/EventController.java"
+      ],
+      "subject": "add event controller for web"
+    },
+    {
+      "date": "2017-09-14T10:03:37+00:00",
+      "files": [
+        "src/main/java/com/ima/web/ExportController.java"
+      ],
+      "subject": "add export controller for web"
+    },
+    {
+      "date": "2017-09-15T13:13:42+00:00",
+      "files": [
+        "src/main/java/com/ima/web/FunnelInput.java"
+      ],
+      "subject": "add funnel input for web"
+    },
+    {
+      "date": "2017-09-15T14:11:33+00:00",
+      "files": [
+        "src/main/java/com/ima/web/HealthController.java"
+      ],
+      "subject": "add health controller for web"
+    },
+    {
+      "date": "2017-09-25T18:03:19+00:00",
+      "files": [
+        "src/main/java/com/ima/web/JobController.java"
+      ],
+      "subject": "add job controller for web"
+    },
+    {
+      "date": "2017-09-29T19:59:36+00:00",
+      "files": [
+        "src/main/java/com/ima/web/JobInput.java"
+      ],
+      "subject": "add job input for web"
+    },
+    {
+      "date": "2017-10-02T08:39:56+00:00",
+      "files": [
+        "src/main/java/com/ima/web/PrivacyController.java"
+      ],
+      "subject": "add privacy controller for web"
+    },
+    {
+      "date": "2017-10-23T10:46:03+00:00",
+      "files": [
+        "src/main/java/com/ima/web/RequestContext.java"
+      ],
+      "subject": "add request context for web"
+    },
+    {
+      "date": "2017-10-23T10:49:26+00:00",
+      "files": [
+        "src/main/java/com/ima/web/RequestLoggingFilter.java"
+      ],
+      "subject": "add request logging filter for web"
+    },
+    {
+      "date": "2017-10-24T15:50:55+00:00",
+      "files": [
+        "src/main/java/com/ima/web/SavedReportController.java"
+      ],
+      "subject": "add saved report controller for web"
+    },
+    {
+      "date": "2017-10-26T16:45:22+00:00",
+      "files": [
+        "src/main/java/com/ima/web/SavedReportInput.java"
+      ],
+      "subject": "add saved report input for web"
+    },
+    {
+      "date": "2017-11-07T14:10:22+00:00",
+      "files": [
+        "src/test/java/com/ima/AnalyticsTest.java"
+      ],
+      "subject": "add analytics test for ima"
+    },
+    {
+      "date": "2017-11-08T09:10:25+00:00",
+      "files": [
+        "src/test/java/com/ima/IngestionServiceTest.java"
+      ],
+      "subject": "add ingestion service test for ima"
+    },
+    {
+      "date": "2017-11-09T08:15:15+00:00",
+      "files": [
+        "tools/reconstruct_history.py"
+      ],
+      "subject": "add disclosed history reconstruction utility"
+    },
+    {
+      "date": "2017-12-06T19:50:38+00:00",
+      "files": [
+        "tools/source_audit.py"
+      ],
+      "subject": "add implementation source inventory tool"
+    },
+    {
+      "date": "2017-12-29T15:43:00+00:00",
+      "files": [
+        "docs/history-manifest.json"
+      ],
+      "subject": "record source-history schedule and weekly distribution"
+    },
+    {
+      "date": "2017-12-29T16:20:00+00:00",
+      "files": [
+        "tools/reconstruct_history.py",
+        "tools/source_audit.py",
+        "docs/history-manifest.json",
+        "docs/source-inventory.json",
+        "docs/static-review.json"
+      ],
+      "subject": "normalize repository metadata and finalize static inventory"
+    }
+  ],
+  "status": "Pending final static inventory review"
+}
